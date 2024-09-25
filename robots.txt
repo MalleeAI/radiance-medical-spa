@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://malleeai.github.io/radiance-medical-spa/sitemap.xml
