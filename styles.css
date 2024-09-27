@@ -9,10 +9,7 @@ body {
     font-family: 'Playfair Display', serif;
     line-height: 1.6;
     color: #4a4a4a;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 0;
-    background-image: url('https://example.com/path-to-your-background-image.jpg');
+    background-image: url('images/Radiance Homepage.png');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
